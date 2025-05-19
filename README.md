@@ -26,11 +26,3 @@ A simple React-based profile settings app where users can view their name, email
 - React Icons
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/samradhi29/react-profile-app.git
-cd react-profile-app
