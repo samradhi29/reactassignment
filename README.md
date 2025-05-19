@@ -8,19 +8,14 @@ A simple React-based profile settings app where users can view their name, email
 
 ## ✨ Features
 
-- 📌 Account Settings UI
-- 🖼 Upload and preview profile picture
-- 🧠 Saves user info and image in `localStorage`
-- 📱 Responsive design using Tailwind CSS
-- ⚙️ No backend required
+-  Account Settings UI
+-  Upload and preview profile picture
+-  Saves user info and image in `localStorage`
+-  Responsive design using Tailwind CSS
+  
 
 ---
 
-## live URL
-
-![App Screenshot](https://via.placeholder.com/800x400.png?text=React+Profile+App+Preview)
-
----
 
 ## 🔧 Technologies Used
 
@@ -37,5 +32,5 @@ A simple React-based profile settings app where users can view their name, email
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-profile-app.git
+git clone https://github.com/samradhi29/react-profile-app.git
 cd react-profile-app
