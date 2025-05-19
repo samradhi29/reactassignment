@@ -1,4 +1,4 @@
-# React Profile App 🧑‍💻
+# React Profile App 
 
 A simple React-based profile settings app where users can view their name, email, and upload a profile picture. All data is stored in the browser using `localStorage` — no backend required!
 
